@@ -1,4 +1,4 @@
-# yt-accesible - YouTube Playlist Button Enhancer
+# YTA - YouTube Accessible Playlist Buttons
 Google Chrome Extension for making YouTube's previous and next buttons more accessible.
 
 The idea came from this tweet from @Spacebom, trying to help his neighbor:
@@ -8,3 +8,6 @@ The idea came from this tweet from @Spacebom, trying to help his neighbor:
 Here is a quick preview of the new controls:
 
 ![YouTube Playlist Button Enhancer Controls in Action](https://github.com/xyborg/yt-accesible/blob/main/screenshot.png?raw=true)
+
+Install the extension from the Google Chrome Store:
+![YTA - YouTube Accessible Playlist Buttons](https://chromewebstore.google.com/detail/yta-youtube-accessible-pl/jdbjgpcmckjccbgheiefjhcnpbknenjf)
