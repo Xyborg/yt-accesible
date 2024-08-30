@@ -9,5 +9,5 @@ Here is a quick preview of the new controls:
 
 ![YouTube Playlist Button Enhancer Controls in Action](https://github.com/xyborg/yt-accesible/blob/main/screenshot.png?raw=true)
 
-Install the extension from the Google Chrome Store:
-![YTA - YouTube Accessible Playlist Buttons](https://chromewebstore.google.com/detail/yta-youtube-accessible-pl/jdbjgpcmckjccbgheiefjhcnpbknenjf)
+## Install the extension from the Google Chrome Store:
+https://chromewebstore.google.com/detail/yta-youtube-accessible-pl/jdbjgpcmckjccbgheiefjhcnpbknenjf
